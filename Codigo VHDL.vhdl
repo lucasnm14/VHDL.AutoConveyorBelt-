@@ -2,10 +2,6 @@
 -- Proyecto N° 3 - Tecnicas Digitales I 
 -- Control para el sistema de pesaje de cajas
 -- 3R5 - 2021 - Grupo 2
--- Integrantes:
---              Cadena Leonardo
---              Martinez Lucas
---              Olguin Martin
 ----------------------------------------------------------------------------------
 library IEEE;
 use IEEE.STD_LOGIC_1164.ALL;
